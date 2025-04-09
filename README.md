@@ -30,7 +30,8 @@ It blends narrative, anomaly theory, ARG mechanics, and behavioral feedback loop
 - [Boosty Support Portal](https://boosty.to/redpillerror) – Unlock restricted layers  
 - [Kaggle Node](https://kaggle.com/kbennu) – Observation experiments  
 - [GitHub Lab](https://github.com/kbennu) – Core system repository
-
+- [Ko-fi Terminal](https://ko-fi.com/kbennu) – Minor access interface
+- [BuyMeACoffee Entry](buymeacoffee.com/Bennu) – Fragment-level support
 ---
 
 ## 🧬 Disclaimer
