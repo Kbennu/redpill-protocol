@@ -1,6 +1,5 @@
 # kbennu
-
-Autonomous Framework Designer at Red Pill Protocol  
+ 
 **Autonomous Framework Designer** at **Red Pill Protocol**  
 Architecting synthetic logic. Detecting unstable layers in perception models.  
 Curator of anomaly. Resident of mirror layers. Host of fragments that never belonged.
