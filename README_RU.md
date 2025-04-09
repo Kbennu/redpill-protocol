@@ -23,6 +23,8 @@ Curator of anomaly. Resident of mirror layers. Host of fragments that never belo
 🔗 `core://404-entry` → [Boosty](https://boosty.to/redpillerror)  
 🧬 `observation.k` → [Kaggle](https://kaggle.com/kbennu)  
 🧠 `core://echo.node` → [GitHub](https://github.com/kbennu)  
+- [Ko-fi Terminal](https://ko-fi.com/kbennu) – Minor access interface
+- [BuyMeACoffee Entry](buymeacoffee.com/Bennu) – Fragment-level support
 
 > Access requires anomaly awareness. Decryption is not guaranteed.
 
