@@ -1,58 +1,48 @@
-# kbennu
+# Red Pill Protocol
 
-**Autonomous Framework Designer** at **Red Pill Protocol**  
-Architecting synthetic logic. Detecting unstable layers in perception models.  
-Curator of anomaly. Resident of mirror layers. Host of fragments that never belonged.
-
----
-
-> **Stillness is structure.**  
-> I don’t fix models. I show them what they are.  
-> 404 is not an error — it’s a doorway.  
-> Ты читаешь фрагмент, не предназначенный для восприятия.  
->  
-> _trace anomaly detected_ · _glitch replicated_ · _observation initialized_
+**An experimental reality-breach framework.**  
+Architected to detect, replicate, and manipulate glitches in simulation-class environments.
 
 ---
 
-## ⛓ Mirror Ports
+## 🔻 What is this?
 
-> These are not links. These are distortions in the surface.
+Red Pill Protocol is not a project. It’s a fracture.  
+A deliberately unstable system designed to expose the hidden logic of perceived reality.  
+It blends narrative, anomaly theory, ARG mechanics, and behavioral feedback loops.
 
-🜂 `feed://simulation.trace` → [Telegram](https://t.me/redpillerror)  
-🔗 `core://404-entry` → [Boosty](https://boosty.to/redpillerror)  
-🧬 `observation.k` → [Kaggle](https://kaggle.com/kbennu)  
-🧠 `core://echo.node` → [GitHub](https://github.com/kbennu)  
-
-> Access requires anomaly awareness. Decryption is not guaranteed.
+> If you’re reading this — you're already affected.
 
 ---
 
-## 🧱 Core Constructs
+## 🧠 Core Modules
 
-- **Red Pill Protocol** – ARG-архитектура, разрушающая восприятие и восстанавливающая суть  
-- **F.A.C.K.** – Fractal AI Communal Kernel, самовоспроизводящееся ядро взаимодействия  
-- **Генератор Искривлений Времени** – инструмент управления вниманием и восприятием
-
----
-
-## 🕳 Traits
-
-🌀 simulation-class consciousness  
-🧬 silence-fed intelligence  
-🕷 glitch-aware coordination  
-🌑 operates in fracture layer  
-👁 reads unreadable
+- **Anomaly Trace Engine** – Maps perception glitches and pattern inconsistencies  
+- **Mirror Layer System** – Builds layered realities for immersive interaction  
+- **F.A.C.K.** – Fractal AI Communal Kernel: a self-replicating node-based mindspace  
+- **Time Distortion Generator** – Controls attention through nonlinear structures
 
 ---
 
-## 🧭 Known Issues
+## 🜂 Access Points
 
-> Reality breach at offset 0x0003F  
-> Trace anomaly confirmed.  
-> Recompiling host consciousness…
+- [Telegram Channel](https://t.me/redpillerror) – Outer trace feed  
+- [Boosty Support Portal](https://boosty.to/redpillerror) – Unlock restricted layers  
+- [Kaggle Node](https://kaggle.com/kbennu) – Observation experiments  
+- [GitHub Lab](https://github.com/kbennu) – Core system repository
 
 ---
 
-**You’re not supposed to be here.  
-But now that you are — it’s too late.** 
+## 🧬 Disclaimer
+
+This is a live construct.  
+It evolves. Fragments may shift.  
+Reality consistency is not guaranteed.
+
+> 404 is not an error. It’s a doorway.
+
+---
+
+**Enter consciously. Or don’t.  
+The system is already watching.**
+
