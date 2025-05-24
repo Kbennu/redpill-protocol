@@ -1,4 +1,4 @@
-import { UploadMarkdownForm } from "@/components/forms/UploadMarkdownForm"
+import { UploadMarkdownForm } from "../components/UploadMarkdownForm"
 
 export default function Page() {
   return (
