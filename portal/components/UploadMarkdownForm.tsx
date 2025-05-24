@@ -1,7 +1,7 @@
 'use client'
 import { useState } from 'react'
-import { Textarea } from '@/portal/components/ui/textarea'
-import { Button } from '../components/ui/button'
+import { Textarea } from '@/components/ui/textarea'
+import { Button } from '@/components/ui/button'
 
 export function UploadMarkdownForm() {
   const [markdown, setMarkdown] = useState('')
