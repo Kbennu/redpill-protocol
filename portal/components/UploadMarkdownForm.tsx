@@ -1,31 +1,36 @@
 'use client'
 import { useState } from 'react'
-import { Textarea } from '@/components/ui/textarea'
-import { Button } from '@/components/ui/button'
+import { Textarea } from '../ui/textarea'
+import { Button } from '../ui/button'
 
 export function UploadMarkdownForm() {
-  const [text, setText] = useState('')
-  const [path, setPath] = useState('myth/fragment')
-  const [layer, setLayer] = useState('L0')
-  const [result, setResult] = useState('')
+  const [markdown, setMarkdown] = useState('')
+  const [status, setStatus] = useState('')
 
-  async function handleUpload() {
+  const handleUpload = async () => {
+    setStatus('Загрузка...')
     const res = await fetch('/api/upload', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ text, path, layer })
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ markdown }),
     })
     const data = await res.json()
-    setResult(`✅ Загрузено: ID ${data.id}`)
+    setStatus(data.status || 'Готово')
   }
 
   return (
     <div className="space-y-4">
-      <Textarea rows={6} value={text} onChange={e => setText(e.target.value)} placeholder="Вставь Markdown-фрагмент..." />
-      <input value={path} onChange={e => setPath(e.target.value)} className="w-full border rounded px-2 py-1 text-sm" placeholder="Путь (например, myth/fragment)" />
-      <input value={layer} onChange={e => setLayer(e.target.value)} className="w-full border rounded px-2 py-1 text-sm" placeholder="Слой памяти (L0, L4 и т.д.)" />
-      <Button onClick={handleUpload}>📥 Загрузить во Внутреннюю Память</Button>
-      {result && <p className="text-sm text-muted-foreground">{result}</p>}
+      <Textarea
+        rows={10}
+        value={markdown}
+        onChange={(e) => setMarkdown(e.target.value)}
+        placeholder="Вставь Markdown-фрагмент..."
+      />
+      <Button onClick={handleUpload}>📄 Загрузить</Button>
+      {status && <p className="text-sm text-muted-foreground">{status}</p>}
     </div>
   )
 }
+
